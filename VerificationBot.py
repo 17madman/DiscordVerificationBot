@@ -99,4 +99,4 @@ async def on_message(message):
 
 
 
-client.run('MTA5OTQxMjIzNDE1NDgwMzIxMQ.Ghy1Kd.bpR0zv1Zv0h3Td30F8xhex5h0x5Nj3eIjWWvos')
+client.run(#INPUT DISCORD BOT TOKEN HERE#)
